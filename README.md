@@ -17,7 +17,10 @@ Main algorithms/methods:
     ICA [2] 
 
 1 - Machine Learning Coursera Course (https://www.coursera.org/learn/machine-learning)
+
 2 - CS 229 Machine Learning Course Materials (http://cs229.stanford.edu/materials.html)
+
 3 - http://scikit-learn.org/stable/modules/naive_bayes.html
+
 4 – курс Глубокое обучение (ШАД)
 
